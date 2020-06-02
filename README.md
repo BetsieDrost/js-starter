@@ -1,8 +1,5 @@
 barebones setup for JavaScript / Node projects replace this with a one-liner phrase describing this project or app
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b0bf87b1975342fc84d3f1bab735dd69)](https://app.codacy.com/manual/BetsieDrost/js-starter?utm_source=github.com&utm_medium=referral&utm_content=BetsieDrost/js-starter&utm_campaign=Badge_Grade_Settings)
-[![Codacy Badge](https://img.shields.io/badge/Code%20Quality-D-red)](https://img.shields.io/badge/Code%20Quality-D-red)
-
 
 ## About
 
